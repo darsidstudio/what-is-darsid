@@ -8,4 +8,4 @@ The studio developed from an earlier community and creative project known as **W
 
 ## See also
 
-* Darsid Studio community
+* Darsid Studio Community Discord Server https://tldrlink.com/r/Darsid
