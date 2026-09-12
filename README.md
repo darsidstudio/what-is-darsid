@@ -1,134 +1,97 @@
-# Darsid Studio — History & Timeline
+# Darsid Studio — History
 
-## The Beginning — Wolf Den
+Darsid Studio is an independent animation studio focused on creating original animated projects, developing its own characters and creative identity, and building toward a long-term future in animation.
 
-Darsid Studio began as something very different.
+Darsid's history began with a Discord community called **Wolf Den**, which eventually developed into a larger creative project and ultimately became the foundation for Darsid Studio.
 
-On **Tuesday, March 25, 2025 at 5:27 PM**, Yitoke Lone, previously known as Lone Wolf, created **Wolf Den** — originally a Discord community designed as a social hangout where creators, YouTubers, and their audiences could interact.
+---
 
-At the beginning, Wolf Den was mainly focused on community, gaming, and creating a place where people could hang out.
+## March 2025 — The Beginning of Wolf Den
 
-## March–April 2025 — Building the Community
+On **Tuesday, March 25, 2025 at 5:27 PM**, Yitoke Lone, previously known as Lone Wolf, created **Wolf Den**.
 
-During its first month, Wolf Den developed rapidly.
+Wolf Den originally began as a Discord community designed as a social hangout where creators, YouTubers, and their audiences could interact, play games, and build a community.
 
-The server introduced gaming channels, VIP roles, verification systems, moderation features, public commands, reporting systems, creator support, events, and other community features.
+At this stage, there was no animation studio yet. Wolf Den was primarily a community and brand.
 
-Wolf Den also began supporting Lone Wolf's YouTube activities and opened opportunities for YouTubers and creators to become part of the community.
+---
 
-By **April 22, 2025**, the server was considered officially finished after weeks of development.
+## April–May 2025 — Growing the Brand
 
-## May 2025 — Expanding the Brand
+Throughout its first few months, Wolf Den expanded beyond its original concept.
 
-In May, Wolf Den began developing beyond being simply a Discord server.
+The community developed its own systems, branding, events, roles, and merchandise. Wolf Den began becoming more than simply a Discord server and started developing into an independent brand.
 
-The community received new emojis, stickers, updated perks, support for additional games, promotional activity, and plans for official merchandise.
+This period established the foundation that would later allow the project to move into other areas.
 
-On **May 10, 2025**, Wolf Den announced official merchandise.
-
-On **May 15, 2025**, the first Wolf Den Roblox merchandise was released, with additional designs being planned.
-
-These developments marked the beginning of Wolf Den becoming a recognizable brand rather than only a community server.
+---
 
 ## July 2025 — The Animation Direction
 
-A major change happened in **July 2025**.
+A major change came in **July 2025**.
 
-On **July 15, 2025**, Wolf Den Studios publicly announced that it was working toward creating an **original 3D animated series** and described itself as a soon-to-be independent animation studio.
+On **July 15, 2025**, Wolf Den Studios announced plans to create an **original 3D animated series** and described itself as a soon-to-be independent animation studio.
 
-The project called for people interested in:
+The project began looking for people interested in animation, art, modeling, storyboarding, voice acting, audio, storytelling, development, and other creative roles.
 
-* 3D animation
-* 2D art
-* Modeling
-* Storyboarding
-* Concept art
-* Voice acting
-* Audio design
-* Writing and storytelling
-* Development
-* Promotion and public relations
+This became one of the first major steps toward turning the project into an actual animation studio.
 
-This was one of the first major moments where the idea of Wolf Den becoming an actual animation studio was publicly established.
+---
 
-A few days later, on **July 19, 2025**, Yitoke announced that they would be stepping back from the community for a while to focus on a small company/project they were developing.
+## Late 2025 — Developing the Studio
 
-The focus was beginning to shift from simply managing a Discord community toward building something much larger.
+During the second half of 2025, the project continued developing while the Wolf Den community and its systems went through multiple changes.
 
-## Late 2025 — Rebuilding and Restructuring
+The focus gradually moved toward developing the studio's creative projects and establishing a stronger foundation for future animation work.
 
-Throughout the second half of 2025, Wolf Den continued changing.
+---
 
-The server went through multiple updates, maintenance periods, staff changes, feature changes, and eventually a major restructuring.
+## February 2026 — The Darsid Rebrand
 
-The Discord bot also became an increasingly important part of the community's development.
+In **February 2026**, the project began transitioning away from the Wolf Den identity.
 
-By December 2025, the server underwent a major cleanup, removing many inactive channels, categories, and game-specific roles while introducing a more focused structure.
+On **February 23, 2026**, the community was rebranded from **Wolf Den** to **Darsid Studios Community**.
 
-## February 2026 — Funding and Rebranding
+This marked the beginning of the Darsid identity and introduced a new direction for the project.
 
-In February 2026, Wolf Den Studios began accepting donations to help support its projects.
+Darsid was no longer simply the name of a community. It was becoming the identity behind an independent animation project.
 
-The intention was for donations to help cover project expenses and payments for contributors working on the studio's projects.
+---
 
-On **February 23, 2026**, the community officially began transitioning from **Wolf Den** to **Darsid Studios Community**.
+## 2026 — Darsid Studio
 
-The rebrand introduced:
+Throughout 2026, Darsid continued developing its animation projects, characters, community, and studio identity.
 
-* The new Darsid identity
-* Updated server systems
-* The Reporter role
-* The Contributor role
-* The Trusted Circle role
-* A new server icon and logo
-* Updated categories and status systems
+The studio's work became increasingly centered around creating original animated content and building the foundation for future productions.
 
-The community had reached approximately **123 members** at the time of the rebrand.
+The Discord community remained part of Darsid's history and continued to serve as a place for people interested in the project.
 
-## March 2026 — Animation Becomes the Priority
+---
 
-On **March 7, 2026**, the direction became even clearer.
+## August 2026 — Building the Studio's Future
 
-Because of declining community activity, regular server updates were paused.
+By **August 5, 2026**, Darsid Studio had entered another stage of development.
 
-The main focus shifted toward **animation and upcoming projects**.
+The studio introduced a new business contact email and began preparing new social media platforms while working on its first **attraction media** project featuring a special guest.
 
-The Discord community remained open, but it was no longer the primary focus. The first animated short became the major priority, with the intention of eventually sharing development leaks and project updates with the community.
+These developments marked another step toward presenting Darsid as a real independent animation studio.
 
-This marked the transition from a community-first project to an **animation-first studio**.
+---
 
-## June 2026 — Keeping the Community Alive
+# From Wolf Den to Darsid
 
-Even while animation remained the primary focus, the community continued receiving occasional improvements.
+Darsid Studio's history can be summarized as:
 
-Members were thanked for helping with security and verification after an incident.
+**Wolf Den → Wolf Den Studios → Animation Project → Darsid Studios Community → Darsid Studio**
 
-The role system was also simplified, content creators were given more freedom to share their work, and the server became less formal in an effort to keep the community active without requiring constant management.
+What began as a Discord community eventually grew into the foundation of an independent animation studio.
 
-The community remained an important part of Darsid's development and motivation.
+Today, Darsid Studio is focused on **animation, storytelling, original characters, and long-term creative projects**.
 
-## August 2026 — Darsid Studio
-
-By **August 5, 2026**, Darsid had entered another stage of development.
-
-Darsid Studio introduced a new business contact email and began preparing new social media accounts.
-
-The studio was also working on its first **attraction media** project featuring a special guest.
-
-At this point, Darsid Studio was no longer simply a rebranded Discord community. It had evolved into an independent animation project focused on creating original animated work and building a long-term studio identity.
-
-# From a Discord Server to a Studio
-
-Darsid Studio's history is a gradual evolution:
-
-**Wolf Den → Community → Brand → Wolf Den Studios → Animation Project → Darsid Studios Community → Darsid Studio**
-
-What started as a Discord server for people to hang out and connect eventually became the foundation for an independent animation studio.
-
-The original community is still part of Darsid's history, but the studio's current direction is centered on animation, storytelling, original characters, and long-term creative projects.
+The community that started everything remains an important part of the studio's history.
 
 ## Community
 
-The Darsid community remains available through Discord.
+The Darsid community remains available through Discord:
 
 **Discord Server:** `tldrlink.com/r/Darsid`
